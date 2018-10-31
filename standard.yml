@@ -1,0 +1,9 @@
+---
+- name: run standard roles
+  hosts: standard
+  become: yes
+  roles:
+          - role-core
+          - role-core-desktop
+          - role-dev-core
+          - role-pentesting-core
