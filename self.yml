@@ -1,0 +1,8 @@
+---
+- name: run the roles on localhost
+  hosts: 127.0.0.1
+  connection: local
+  become: yes
+  role:
+          - role-core
+          - role-dev-core
