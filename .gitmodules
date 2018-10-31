@@ -1,0 +1,33 @@
+[submodule "roles/role-core"]
+	path = roles/role-core
+	url = git@github.com:buffersandbeer/role-core.git
+[submodule "roles/role-core-desktop"]
+	path = roles/role-core-desktop
+	url = git@github.com:buffersandbeer/role-core-desktop.git
+[submodule "roles/role-sdr"]
+	path = roles/role-sdr
+	url = git@github.com:buffersandbeer/role-sdr.git
+[submodule "roles/role-pentesting-netpen"]
+	path = roles/role-pentesting-netpen
+	url = git@github.com:buffersandbeer/role-pentesting-netpen.git
+[submodule "roles/role-docker"]
+	path = roles/role-docker
+	url = git@github.com:buffersandbeer/role-docker.git
+[submodule "roles/role-pentesting-web"]
+	path = roles/role-pentesting-web
+	url = git@github.com:buffersandbeer/role-pentesting-web.git
+[submodule "roles/role-go-core"]
+	path = roles/role-go-core
+	url = git@github.com:buffersandbeer/role-go-core.git
+[submodule "roles/role-can-core"]
+	path = roles/role-can-core
+	url = git@github.com:buffersandbeer/role-can-core.git
+[submodule "roles/role-dev-core"]
+	path = roles/role-dev-core
+	url = git@github.com:buffersandbeer/role-dev-core.git
+[submodule "roles/role-reverse-engineering"]
+	path = roles/role-reverse-engineering
+	url = git@github.com:buffersandbeer/role-reverse-engineering.git
+[submodule "roles/role-pentesting-core"]
+	path = roles/role-pentesting-core
+	url = git@github.com:buffersandbeer/role-pentesting-core.git
